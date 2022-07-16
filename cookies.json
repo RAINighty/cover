@@ -1,0 +1,56 @@
+{
+  "cookie_info": {
+    "cookies": [
+      {
+        "expires": 1662291935,
+        "http_only": 1,
+        "name": "SESSDATA",
+        "value": "3ae44c32%2C1662291935%2C88caf331"
+      },
+      {
+        "expires": 1662291935,
+        "http_only": 0,
+        "name": "bili_jct",
+        "value": "90c02e73b78cf8a6b9a217a4d84f50f6"
+      },
+      {
+        "expires": 1662291935,
+        "http_only": 0,
+        "name": "DedeUserID",
+        "value": "123856388"
+      },
+      {
+        "expires": 1662291935,
+        "http_only": 0,
+        "name": "DedeUserID__ckMd5",
+        "value": "6042c2092081b365"
+      },
+      {
+        "expires": 1662291935,
+        "http_only": 0,
+        "name": "sid",
+        "value": "jeurmidb"
+      }
+    ],
+    "domains": [
+      ".bilibili.com",
+      ".biligame.com",
+      ".bigfun.cn",
+      ".bigfunapp.cn",
+      ".dreamcast.hk"
+    ]
+  },
+  "sso": [
+    "https://passport.bilibili.com/api/v2/sso",
+    "https://passport.biligame.com/api/v2/sso",
+    "https://passport.im9.com/api/v2/sso",
+    "https://passport.bigfunapp.cn/api/v2/sso"
+  ],
+  "token_info": {
+    "access_token": "f776cf7b9adfb12ae17a2ed44c8a5b31",
+    "expires_in": 15552000,
+    "mid": 123856388,
+    "refresh_token": "9867313cb73c997a3196d3e968bc7531"
+  },
+  "platform": null
+}
